@@ -28,27 +28,21 @@ REGOLE
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-/*
- let name = "Alessandro";
-*/
+let name = "Alessandro";
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-/*
-  12+20;
-*/
+12 + 20;
 
 /* ESERCIZIO 4
  Crea una variable di nome "x" e assegna ad essa il numero 12.
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-/*
- const x = 12;
-*/
+const x = 12;
 
 /* ESERCIZIO 5
   Riassegna un nuovo valore alla variabile "name" già esistente: il tuo cognome.
@@ -56,20 +50,16 @@ REGOLE
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-/*
-  name = "Fugazza";
-  const cName = "Alessandro";
-  cName = "Fugazza";
-*/
+name = "Fugazza";
+const cName = "Alessandro";
+cName = "Fugazza";
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-/*
-  4-x;
-*/
+4 - x;
 
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
@@ -78,9 +68,7 @@ REGOLE
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-/*
-  const name1 = "john";
-  const name2 = "John";
-  name1 !== name2;
-  name1.toLowerCase() === name2.toLowerCase();
-*/
+const name1 = "john";
+const name2 = "John";
+name1 !== name2;
+name1.toLowerCase() === name2.toLowerCase();
